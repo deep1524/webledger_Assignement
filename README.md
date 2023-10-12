@@ -16,7 +16,9 @@ Navigate to http://localhost:3000 in your web browser
 created .env file in backend side and copy the given below PORT, MONGO_URL,JWT_SECRET_KEY.
 
 🚀  PORT = 8080
+
 🚀  MONGO_URL = mongodb+srv://d:deep@cluster0.issupkm.mongodb.net/webledger?retryWrites=true&w=majority
+
 🚀  JWT_SECRET_KEY =deep
 
 
