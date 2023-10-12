@@ -2,7 +2,7 @@ const express = require("express");
 const recipeRouter = express.Router()
 const axios = require("axios");
 const { RecipeModel } = require("../Models/Recipe");
-const apiKey = "fb24cb7979be4bd4a2e516bc142c63fa"
+const apiKey = "1dd5b7bae16f4beb8fa24c5490e49ab8"
 const app=express.Router();
 app.get("/search",async(req,res)=>{
     try{
