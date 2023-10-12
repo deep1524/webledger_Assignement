@@ -24,7 +24,7 @@ created .env file in backend side and copy the given below PORT, MONGO_URL,  JWT
 
 ## Demo
 
-https://crystalgoldshop.netlify.app
+
 
 ##  Tech-stack used
   
