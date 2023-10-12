@@ -6,6 +6,12 @@
 ---
 This is the assignment of Webledger company where we are used third party api for searching recipe and display in Browser and saved the recipe for future. and login and sign functinaity.
 
+🚀 Getting Started
+Clone the repository
+Install dependencies with npm install both client and backend side 
+Run the development server with npm run start for client side and for backend side npm run server
+Navigate to http://localhost:3000 in your web browser
+
 ## Demo
 
 https://crystalgoldshop.netlify.app
