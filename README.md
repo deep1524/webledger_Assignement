@@ -51,7 +51,8 @@ DataBase   : MongoDB Atlas
 
   **4) Product Display Page**
   ---
-<img src="https://github.com/Abhi11sep/ambiguous-heat-2587/blob/master/sinfgleProduct.png"></img>
+
+![Screenshot (1328)](https://github.com/deep1524/webledger_Assignement/assets/105913793/d5e3e048-a8f9-49aa-a4b6-a682c54e76d6)
 
   **5) Product View Page**
   ---
