@@ -13,7 +13,7 @@ Run the development server with npm run start for client side and for backend si
 Navigate to http://localhost:3000 in your web browser
 
 🚀 Created .env file
-created .env file in backend side and copy the given below PORT, MONGO_URL,JWT_SECRET_KEY.
+created .env file in backend side and copy the given below PORT, MONGO_URL,  JWT_SECRET_KEY.
 
 🚀  PORT = 8080
 
